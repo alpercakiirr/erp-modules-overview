@@ -18,7 +18,7 @@ The primary objective is to build scalable, user-friendly, and efficient ERP sol
   - Testing & optimization
   - Deployment & maintenance
 
-## Technologies & Tools
+## Technologies & Tools 
 
 - **Frontend:** Vue.js, Nuxt.js, TypeScript, TailwindCSS
 - **Backend:** REST APIs, Microservices architecture
